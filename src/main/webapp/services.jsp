@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>This is Services JSP file</h1>
+    <a href="index.jsp">home page</a>
 </body>
 </html>
