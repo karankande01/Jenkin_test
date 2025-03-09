@@ -1,0 +1,53 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven / Gradle dependencies
+.mvn/
+target/
+build/
+out/
+*.war
+*.ear
+*.jar
+
+# IDE / Editor files
+.idea/
+*.iml
+*.swp
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.DS_Store
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Environment variables and secrets
+.env
+*.key
+*.pem
+*.p12
+*.crt
+*.cer
+
+# Spring Boot specific
+application.properties
+application.yml
+application-dev.properties
+application-prod.properties
+
+# Node.js dependencies (if frontend exists)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Docker / Kubernetes files
+.dockerignore
+docker-compose.override.yml
+
+# Miscellaneous
+*.tmp
