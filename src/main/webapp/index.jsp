@@ -24,6 +24,7 @@
             color: #333;
             text-decoration: none;
             font-weight: bold;
+            margin: 0 1em;
         }
     </style>
 </head>
