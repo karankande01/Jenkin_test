@@ -33,12 +33,12 @@
         <h1>About Jenkins CI/CD</h1>
     </header>
     <main>
-        <p>This is about Jenkins CI/CD.</p>
         <nav>
             <a href="index.jsp">Home</a>
             <a href="services.jsp">Services</a>
             <a href="contact_us.jsp">Contact Us</a>
         </nav>
     </main>
+    <p>This is about Jenkins CI/CD.</p>
 </body>
 </html>
