@@ -8,5 +8,9 @@
 <body>
     <h1>This is contact us page</h1>
     <a href="index.jsp">Back to home</a>
+    <br>
+    <br>
+    <br>
+    <p>This is a paragraph for testing automation</p>
 </body>
 </html>
