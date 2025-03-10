@@ -37,6 +37,7 @@
             <a href="index.jsp">Home</a>
             <a href="services.jsp">Services</a>
             <a href="contact_us.jsp">Contact Us</a>
+            <a href="about.jsp">About</a>
         </nav>
     </main>
     <p>This is about Jenkins CI/CD.</p>
