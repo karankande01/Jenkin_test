@@ -2,12 +2,43 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em 0;
+        }
+        main {
+            padding: 2em;
+        }
+        a {
+            color: #333;
+            text-decoration: none;
+            font-weight: bold;
+            margin: 0 1em;
+        }
+    </style>
 </head>
 <body>
-<h1 style="color:brown;">This is about about</h1>
-<a href="index.jsp">Home page</a>|
-<a href="services.jsp">services page</a>|
-<a href="contact_us.jsp">contact_us</a>
+    <header>
+        <h1>About Jenkins CI/CD</h1>
+    </header>
+    <main>
+        <p>This is about Jenkins CI/CD.</p>
+        <nav>
+            <a href="index.jsp">Home</a>
+            <a href="services.jsp">Services</a>
+            <a href="contact_us.jsp">Contact Us</a>
+        </nav>
+    </main>
 </body>
 </html>
